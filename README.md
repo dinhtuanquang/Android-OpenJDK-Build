@@ -1,4 +1,4 @@
-# Android-OpenJDK-Build
+# Android-OpenJDK-Build-21
  Build and packaging script for building OpenJDK, used for FoldCraftLauncher.
 
 ## Branch information
